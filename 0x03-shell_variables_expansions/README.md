@@ -1,0 +1,1 @@
+My read me fo 0x03 shell projects
